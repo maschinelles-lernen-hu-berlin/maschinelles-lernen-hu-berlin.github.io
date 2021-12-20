@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: minimal
-day_night: false
+theme: hu_berlin
+day_night: true
 font: native
 font_size: L
 
@@ -15,7 +15,7 @@ font_size: L
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: My research group description.
+description: Machine Learning Group - HU Berlin
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -57,7 +57,7 @@ main_menu:
 # Localization
 
 date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+time_format: '15:04'
 address_format: en-us
 
 # Site features
