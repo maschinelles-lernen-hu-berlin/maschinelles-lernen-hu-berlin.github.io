@@ -1,6 +1,6 @@
 ---
-title: 06.09.2021 - New research grant! 
-date: 2020-12-02
+title: New DFG research grant! 
+date: 2021-09-06
 image:
   focal_point: "top"
 ---
