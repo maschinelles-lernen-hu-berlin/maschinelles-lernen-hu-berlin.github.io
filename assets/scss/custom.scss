@@ -1,0 +1,20 @@
+.navbar-brand img {
+  max-height: 100px !important;
+}
+
+.navbar {
+  // position: absolute !important;
+  height: 120px !important;
+  border-bottom-style: solid;
+  border-bottom-color: #ccd6e0;
+  border-bottom-width: 15px;
+}
+
+.page-wrapper {
+  // Min height = viewport height - navbar height
+  min-height: calc(100vh - 120px) !important;
+}
+
+body {
+  margin-top: 120px !important;
+}

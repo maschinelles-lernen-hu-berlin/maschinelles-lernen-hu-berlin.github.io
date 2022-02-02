@@ -8,9 +8,14 @@
 {{/* Get site logo. */}}
 {{ $show_logo := site.Params.main_menu.show_logo | default true }}
 {{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
+{{ $has_logo_md := fileExists "assets/media/logo_md.png" | or (fileExists "assets/media/logo_md.jpg") }}
 {{ $logo := "" }}
 {{ if $has_logo }}
-  {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 200)) }}
+  {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 100)) }}
+{{ end }}
+{{ $logo_md := "" }}
+{{ if $has_logo_md }}
+  {{ $logo_md = (partial "functions/get_logo_md" (dict "constraint" "max_height" "size" 80)) }}
 {{ end }}
 
 <header class="header--fixed">
@@ -195,21 +200,35 @@
 
       </ul>
 
-      {{if $show_logo}}
-      <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="{{ "/" | relLangURL }}">
-          {{- if $has_logo -}}
-            <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
-            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
-            {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
-          {{- else -}}
-            {{- site.Title -}}
-          {{- end -}}
-        </a>
-      </div>
-      {{end}}
-
     </div><!-- /.container -->
+
+    {{if $show_logo}}
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+        {{- if $has_logo_md -}}
+          <img src="{{ $logo_md.RelPermalink }}" alt="Test"
+          {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+          {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+        {{- else -}}
+          {{- site.Title -}}
+        {{- end -}}
+      </a>
+    </div>
+
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+        {{- if $has_logo -}}
+          <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
+          {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+          {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+        {{- else -}}
+          {{- site.Title -}}
+        {{- end -}}
+      </a>
+    </div>
+    {{end}}
+
   </nav>
+
 </header>
 {{end}}{{/* End show navbar. */}}
