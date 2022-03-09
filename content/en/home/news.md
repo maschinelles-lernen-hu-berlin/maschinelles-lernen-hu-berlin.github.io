@@ -8,16 +8,21 @@ title: Latest News
 subtitle:
 
 content:
-  count: 15
+  count: 4
+  # Filter content to display
   filters:
-    author: ""
-    category: ""
+    folders:
+      - news
+    #tag: '*'
+    category: ''
+    publication_type: ''
+    author: ''
     exclude_featured: false
-    publication_type: ""
-    tag: ""
+    exclude_future: false
+    exclude_past: false
   offset: 0
   order: desc
-  page_type: post
+  page_type: news
 design:
   view: 2
   columns: "2"

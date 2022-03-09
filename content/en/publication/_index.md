@@ -6,7 +6,7 @@ headless: true  # This file represents a page section.
 
 content:
   # Page type to display. E.g. post, event, or publication.
-  page_type: event
+  page_type: post
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
@@ -27,5 +27,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)  
-  view: 2
+  view: 4
 ---

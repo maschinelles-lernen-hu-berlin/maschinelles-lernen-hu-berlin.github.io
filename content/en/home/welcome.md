@@ -12,13 +12,21 @@ weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
+
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["70px", "0", "70px", "0"]
 ---
 
 Welcome to the Machine Learning Group of the Humboldt-Universität zu Berlin! 
 
-We focus on research in machine learning (ML) and **natural language processing (NLP)**. Our goal is to give machines the ability to understand and use human language. To achieve this, our group develops the [Flair framework]() for automated text analysis. It is already used in **hundreds of research projects and industrial applications** and is frequently listed among the most popular deep learning frameworks for NLP.
+Our goal is to give machines the ability to understand and use human language. To this end, we research new approaches for **machine learning** (ML) and **natural language processing (NLP)**, and develop the open source [Flair framework]() for automated text analysis.
 
-On these pages you can find information about our [research](publication), our [teaching](teaching) and the Flair framework.
+
+Find out more about our team, our [research](publication) and our [teaching](teaching).
+
+_**Open Positions:** Our group is growing quickly so we are always looking for PhD candidates and student assistants to join our group!_
+
 
 
 

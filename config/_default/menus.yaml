@@ -7,17 +7,17 @@ main:
   - name: Home
     url: 
     weight: 10
-  - name: Our Group
+  - name: People
     url: people
     weight: 20
-  - name: Research
-    url: publication
+  - name: Our Research
+    url: research
     weight: 30
   - name: Teaching
     url: teaching
     weight: 40
-  - name: News_Blog
-    url: post
+  - name: News
+    url: news
     weight: 50
 # - name: Events
 #   url: event
