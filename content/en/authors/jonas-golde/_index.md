@@ -14,8 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
-My research interests include transfer learning, zero- and few-shot learning.
+bio: My research interests include transfer learning, zero- and few-shot learning.
 
 interests:
 - Neural transfer learning
