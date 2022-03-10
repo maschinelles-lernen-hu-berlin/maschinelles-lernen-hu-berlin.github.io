@@ -14,11 +14,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio:
+My research interests include transfer learning, zero- and few-shot learning.
 
 interests:
-- Natural Language Processing
-- ...
+- Neural transfer learning
+- Data-efficient learning
+- Zero- and few-shot learning
 
 # education:
 #   courses:
@@ -39,16 +41,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:goldejon@informatik.hu-berlin.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alan-akbik-9859b1122/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=adKmg3IAAAAJ&hl=de
+  link: https://www.linkedin.com/in/jonasgolde/
 - icon: github
   icon_pack: fab
-  link: https://github.com/alanakbik
+  link: https://github.com/whoisjones
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "alan [dot] akbik [ät] hu-berlin.de"
+email: "goldejon [ät] informatik.hu-berlin.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -67,6 +66,9 @@ user_groups:
 - Research Associates and PhD Candidates
 ---
 
-Hi, I'm Mr X :wave: <br>
+Hi, I'm Jonas X :wave: <br>
 
-I am ...
+I'm a first year PhD student in the [machine Learning group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/ml-en/ml) at Humboldt University of Berlin advised by [Alan Akbik](https://maschinelles-lernen-hu-berlin.github.io/author/alan-akbik/).
+I'm part of the project [ML-ENA](https://maschinelles-lernen-hu-berlin.github.io/project/zim-ena/) funded by the [BMWi](https://www.bmwi.de/Navigation/DE/Home/home.html).
+
+My research focuses on data-efficient learning such as neural transfer learning, zero- and few-shot learning.
