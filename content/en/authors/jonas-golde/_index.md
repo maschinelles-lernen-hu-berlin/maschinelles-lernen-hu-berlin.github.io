@@ -65,7 +65,7 @@ user_groups:
 - Research Associates and PhD Candidates
 ---
 
-Hi, I'm Jonas X :wave: <br>
+Hi, I'm Jonas :wave: <br>
 
 I'm a first year PhD student in the [machine Learning group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/ml-en/ml) at Humboldt University of Berlin advised by [Alan Akbik](https://maschinelles-lernen-hu-berlin.github.io/author/alan-akbik/).
 I'm part of the project [ML-ENA](https://maschinelles-lernen-hu-berlin.github.io/project/zim-ena/) funded by the [BMWi](https://www.bmwi.de/Navigation/DE/Home/home.html).
