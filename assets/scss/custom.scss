@@ -19,6 +19,28 @@ body {
   min-height: calc(100vh - 120px) !important;
 }
 
+.contact-wrapper{
+  display: flex;
+}
+
+.contact-field{
+  padding: 5px 15px 5px 15px;
+  margin: 0 4px 0 4px;
+  border:none;
+  background-color: rgb(0, 55, 108);
+  color: white;
+  transition: 0.3s;
+}
+
+.contact-field:first-child{
+  margin-left: 0px;
+}
+
+.contact-field:hover{
+  opacity: 0.8;
+}
+
+
 /**
 NAVBAR
  */

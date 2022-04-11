@@ -22,7 +22,10 @@ Find out more about our team, our [research](publication) and our [teaching](tea
 
 _**Open Positions:** Our group is growing quickly so we are always looking for PhD candidates and student assistants to join our group!_
 
-
+<div class="contact-wrapper">
+  <button class="contact-field contact-us" onclick="location.href='mailto:example@hu-berlin.de';" target="_blank">Contact us</button>
+  <button class="contact-field meet-us" onclick="location.href = 'people/';">Meet the team</button>
+</div>
 
 
 
