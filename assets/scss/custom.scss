@@ -1,3 +1,28 @@
+/**
+GENERAL
+ */
+
+body {
+  margin-top: 120px !important;
+}
+
+.overline {
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 1.5rem;
+}
+
+.page-wrapper {
+  // Min height = viewport height - navbar height
+  min-height: calc(100vh - 120px) !important;
+}
+
+/**
+NAVBAR
+ */
+
 .navbar-brand img {
   max-height: 100px !important;
 }
@@ -10,11 +35,17 @@
   border-bottom-width: 15px;
 }
 
-.page-wrapper {
-  // Min height = viewport height - navbar height
-  min-height: calc(100vh - 120px) !important;
+/**
+Overwrite HERO defaults
+ */
+.hero-lead{
+  font-size: 16px
 }
 
-body {
-  margin-top: 120px !important;
+/**
+HELPERS
+ */
+
+span {
+  content: "\2014";
 }
