@@ -5,10 +5,9 @@ headless: true
 weight: 30
 
 title: Latest News
-subtitle:
 
 content:
-  count: 4
+  count: 3
   # Filter content to display
   filters:
     folders:
