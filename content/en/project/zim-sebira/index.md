@@ -5,8 +5,6 @@ date: 2021-08-01
 tags:
 - Industry collaborations
 - Language modeling
-image:
-  focal_point: smart
 ---
 
 The BMWi-funded project "ML-SEBIRA" (Semantische Begriffsanalyse für das Information Retrieval) with industry partner neofonie starts today! 

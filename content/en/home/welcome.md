@@ -6,9 +6,6 @@ hero_media: 'icon.png'
 
 title: Chair of Machine Learning
 weight: 10
-design:
-  spacing:
-    padding: ["70px", "0", "70px", "0"]
 ---
 <p class="overline">Humboldt-Universität zu Berlin - Prof. Dr. Alan Akbik<p>
 
