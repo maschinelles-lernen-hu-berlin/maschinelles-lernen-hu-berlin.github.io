@@ -40,8 +40,9 @@ main_menu:
 header:
   navbar:
     enable: true
-    align: r
+    align: l
     show_logo: true
+    show_jvn: true
     show_language: false
     show_day_night: false
     show_search: false
