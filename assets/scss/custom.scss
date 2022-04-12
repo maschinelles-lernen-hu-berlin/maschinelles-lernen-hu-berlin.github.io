@@ -59,6 +59,12 @@ NAVBAR
   border-bottom-width: 15px;
 }
 
+.navbar .navbar-nav .nav-link.active {
+  color: rgb(0, 55, 108) !important;
+  border-bottom: 1px solid rgb(0, 55, 108);
+  padding-bottom: 3px;
+}
+
 @media (max-width: 992px) {
   .navbar-brand{
     margin: 0 0 0 auto;
