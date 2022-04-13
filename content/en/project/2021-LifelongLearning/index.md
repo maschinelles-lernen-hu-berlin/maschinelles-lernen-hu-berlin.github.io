@@ -5,8 +5,6 @@ date: 2021-05-01
 tags:
 - DFG-funded
 - Never-ending learning
-image:
-  focal_point: smart
 ---
 
 The DFG-funded project "Neural Representations for Lifelong Learning" in the Science of Intelligence cluster of excellence starts today!

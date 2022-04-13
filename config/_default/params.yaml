@@ -40,22 +40,23 @@ main_menu:
 header:
   navbar:
     enable: true
-    align: r
+    align: l
     show_logo: true
+    show_jvn: true
     show_language: false
     show_day_night: false
     show_search: false
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Humboldt-Universität zu Berlin. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization

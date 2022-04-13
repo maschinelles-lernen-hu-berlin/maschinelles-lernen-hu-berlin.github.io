@@ -14,7 +14,6 @@ external_link: ""
 
 image:
   caption: Logo of Emmy Noether Programme
-  focal_point: Smart
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

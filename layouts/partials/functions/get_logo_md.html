@@ -4,7 +4,7 @@
 
 {{/* Workaround fact Hugo does not support GetMatch in assets dir */}}
 {{/* Hugo doesn't support image ops on SVG: https://discourse.gohugo.io/t/ho-do-i-convert-a-generic-resource-to-image-resource/22570/4 */}}
-{{ $logo := resources.Get "media/logo_md.png" | default (resources.Get "media/logo_md.jpg") }}
+{{ $logo := resources.Get "media/logo_md.jpg" | default (resources.Get "media/logo_md.jpg") }}
 {{ $logo_proc := $logo }}
 
 {{/* If the type of image can be resized by Hugo, resize it given a `.size` argument to the function. */}}

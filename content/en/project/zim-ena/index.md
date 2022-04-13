@@ -5,8 +5,6 @@ date: 2021-04-01
 tags:
 - Industry collaborations
 - Few-shot learning
-image:
-  focal_point: smart
 ---
 
 
