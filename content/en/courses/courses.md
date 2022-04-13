@@ -7,7 +7,7 @@ weight: 40  # section position on page
 
 content:
   # Page type to display. E.g. project.
-  page_type: course
+  page_type: courses
   count: 3
   filter_button:
     - name: All
