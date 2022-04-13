@@ -16,7 +16,7 @@ main:
     weight: 50
   - name: Courses
     parent: teaching
-    url: courses
+    url: course
     weight: 10
   - name: Theses
     parent: teaching
