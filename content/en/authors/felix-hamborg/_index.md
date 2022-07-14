@@ -14,49 +14,31 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+#bio: My research interests include ...
 
 interests:
-- Natural Language Processing
-- ...
+I love working with news articles and, in general, text documents. My research interests are:
+- Training with little data (active learning, transfer learning, etc.)
+- Media bias and content analysis
+- Natural language processing
+- Machine learning
 
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:felix.hamborg@informatik.hu-berlin.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alan-akbik-9859b1122/
+  link: https://www.linkedin.com/in/felixhamborg/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=adKmg3IAAAAJ&hl=de
+  link: https://scholar.google.com/citations?user=zFkEOJEAAAAJ 
 - icon: github
   icon_pack: fab
-  link: https://github.com/alanakbik
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/fhamborg/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "alan [dot] akbik [ät] hu-berlin.de"
+email: "felix [dot] hamborg [ät] hu-berlin.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -67,6 +49,7 @@ user_groups:
 - Research Associates and PhD Candidates
 ---
 
-Hi, I'm Mr X :wave: <br>
+Hi, I’m Felix :wave: <br>
 
-I am ...
+I’m a visiting researcher in the [Machine Learning group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/ml-en/ml) at the Humboldt University of Berlin. Here, I am investigating how we can improve the fine-tuning efficiency of machine learning methods, e.g., so that language models such as BERT need only little training data and still achieve high classification performance. I’m also a research group leader at the [Heidelberg Academy of Sciences](https://www.hadw-bw.de/en/junge-wissenschaft/win-kolleg-0/Teilprogramm7/fake-news), where we are using such models to automatically identify media bias in news articles.
+

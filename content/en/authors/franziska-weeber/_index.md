@@ -17,8 +17,9 @@ organizations:
 bio: My research interests include ...
 
 interests:
-- Natural Language Processing
-- ...
+- Active learning
+- Text classification
+- Social data science
 
 # education:
 #   courses:
@@ -39,24 +40,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:franziska.weeber@hu-berlin.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alan-akbik-9859b1122/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=adKmg3IAAAAJ&hl=de
+  link: https://www.linkedin.com/in/franziska-weeber-7b3178192/
 - icon: github
   icon_pack: fab
-  link: https://github.com/alanakbik
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: ttps://github.com/frawee
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "alan [dot] akbik [ät] hu-berlin.de"
+email: "franziska [dot] weeber [ät] hu-berlin.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -67,6 +60,11 @@ user_groups:
 - Research Associates and PhD Candidates
 ---
 
-Hi, I'm Mr X :wave: <br>
+Hi, I'm Franzi :wave: <br>
 
-I am ...
+I’m a visiting researcher in [Prof. Alan Akbik‘s](http://alanakbik.github.io/) [Machine Learning group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/ml-en/ml) at the Humboldt University of Berlin. I’m also a part-time research assistant at the Heidelberg Academy of Sciences and I‘m connected to the [University of Konstanz](https://www.uni-konstanz.de/) by an [EXIST](https://www.exist.de/) startup funding grant. 
+
+Previously, I was a research assistant at the [Empirical Social Research](https://www.soziologie.uni-konstanz.de/en/hinz/) chair of [Prof. Thomas Hinz](https://www.soziologie.uni-konstanz.de/hinz/team/prof-dr-thomas-hinz/), where I worked on the (semi-)automation of social science analyses.
+
+If you share my research interests, I am also happy to supervise BA and MA projects and/or theses. Just send me an email!
+
