@@ -14,11 +14,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+# bio: My research interests include ...
 
 interests:
 - Natural Language Processing
-- ...
+- Representation Learning: Enriching representations with more hierarchical structure
+- Encoding semantic relations
+- Combining knowledge from different sources, e.g. language models with knowledge bases
 
 # education:
 #   courses:
@@ -39,24 +41,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/alan-akbik-9859b1122/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=adKmg3IAAAAJ&hl=de
+  link: 'mailto:susanna.ruecker@hu-berlin.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/alanakbik
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/susannaruecker/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "alan [dot] akbik [ät] hu-berlin.de"
+email: "susanna [dot] ruecker [ät] hu-berlin.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -67,6 +58,8 @@ user_groups:
 - Research Associates and PhD Candidates
 ---
 
-Hi, I'm Mr X :wave: <br>
+Hi, I’m Susanna :wave: <br>
 
-I am ...
+since March 2022 I'm part of the [Machine Learning group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/ml-en/ml) at Humboldt University of Berlin as a PhD student, advised by [Prof. Alan Akbik](http://alanakbik.github.io/). Coming from a linguistic background, previously I was research assistant at [JULIE Lab](https://julielab.de/About.html) in Jena.
+
+My research focuses on neural text representations in natural language processing, in particular around their ability to structurally encode (asymmetric) semantic relations, e.g. hypernymy or meronymy. Such representations may be helpful in several downstream tasks such as textual entailment, neural search and sense disambiguation. Related to this research, I'm interested in different ways to combine the distributional knowledge from language models (such as BERT) with manual resources such as semantic databases like WordNet or gazetteers.
