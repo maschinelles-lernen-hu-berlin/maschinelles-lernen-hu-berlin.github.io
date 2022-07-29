@@ -14,11 +14,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: Research assistant at HU Berlin
 
 interests:
+- Discrete Mathematics
 - Natural Language Processing
-- ...
+- Entity Linking
 
 # education:
 #   courses:
@@ -39,16 +40,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/alan-akbik-9859b1122/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=adKmg3IAAAAJ&hl=de
+  link: 'mailto:marcel.milich@hu-berlin.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/alanakbik
+  link: https://github.com/marcelmmm
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,7 +51,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "alan [dot] akbik [ät] hu-berlin.de"
+email: "marcel [dot] milich [ät] hu-berlin.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -67,6 +62,6 @@ user_groups:
 - Research Associates and PhD Candidates
 ---
 
-Hi, I'm Mr X :wave: <br>
-
-I am ...
+Hello, I'm Marcel :wave: <br>
+I'm a research assistant in the Machine Learning group at Humboldt University Berlin advised by Prof. Alan Akbik. My position is part of the project 'AI Marketeer' funded by the [Investitionsbank Berlin](https://www.ibb.de/en/homepage/homepage.html).
+I come from a mathematical background and in my current research I focus on the NLP-task Entity Linking.
