@@ -63,5 +63,5 @@ user_groups:
 ---
 
 Hello, I'm Marcel :wave: <br>
-I'm a research assistant in the Machine Learning group at Humboldt University Berlin advised by Prof. Alan Akbik. My position is part of the project 'AI Marketeer' funded by the [Investitionsbank Berlin](https://www.ibb.de/en/homepage/homepage.html).
+I'm a research assistant in the [machine Learning group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/ml-en/ml) at Humboldt University Berlin advised by Prof. [Alan Akbik](https://maschinelles-lernen-hu-berlin.github.io/author/alan-akbik/). My position is part of the project 'AI Marketeer' funded by the [Investitionsbank Berlin](https://www.ibb.de/en/homepage/homepage.html).
 I come from a mathematical background and in my current research I focus on the NLP-task Entity Linking.
