@@ -6,7 +6,7 @@ title: Max Ploner
 superuser: false
 
 # Role/position
-role: Student Assistant
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -14,11 +14,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: Interested in Growing Neural Networks
 
 interests:
+- Growing Neural Networks
+- Continual Learning
 - Natural Language Processing
-- ...
 
 # education:
 #   courses:
@@ -39,16 +40,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/alan-akbik-9859b1122/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=adKmg3IAAAAJ&hl=de
+  link: 'mailto:max.ploner@hu-berlin.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/alanakbik
+  link: https://github.com/plonerma
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,7 +51,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "alan [dot] akbik [ät] hu-berlin.de"
+email: "max [dot] ploner [ät] hu-berlin.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -64,9 +59,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Student Assistants
+- Research Associates and PhD Candidates
 ---
 
-Hi, I'm Mr X :wave: <br>
+Hi, I'm Max :wave: <br>
 
-I am ...
+I'm a PhD stundent in the [Machine Learning group](https://www.informatik.hu-berlin.de/en/forschung-en/gebiete/ml-en/ml) at Humboldt University of Berlin, headed by Prof. Alan Akbik, and part of the project “Modeling Neurogenesis for Continuous Learning” at [Science of Intelligence](https://www.scienceofintelligence.de/).
+
+My research concentrates on utilizing topological changes during the training of artificial neural networks. Over the course of the next years, I want to explore the impact of such changes on learning characteristics such as the ability to continually learn new tasks.
